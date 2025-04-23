@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Post-adder/static/css/main.b0453ea0.css",
+    "main.js": "/Post-adder/static/js/main.9824c71b.js",
+    "index.html": "/Post-adder/index.html",
+    "main.b0453ea0.css.map": "/Post-adder/static/css/main.b0453ea0.css.map",
+    "main.9824c71b.js.map": "/Post-adder/static/js/main.9824c71b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0453ea0.css",
+    "static/js/main.9824c71b.js"
+  ]
+}
